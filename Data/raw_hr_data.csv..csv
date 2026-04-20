@@ -1,0 +1,551 @@
+﻿Employee_ID,Full_Name,Department,Job_Role,Hire_Date,Salary,Performance_Score,Attendance_Rate (%),Promotion_Status,Exit_Status
+E-477,  Titi Ogbonna  ,admin,Jr. Associate,4/7/2020,525083,2,87.5,no,RESIGNED
+EMP123,Bola Fashola,Sаles,director,13.11.2022,NGN380744,2,84.4,Yes,TERMINATED
+E-019,PAUL LAWAL,Mkt,Directоr,29.09.2020,"₦318,896",1,83.5,Y,Active
+HR0072,  Comfort Idowu  ,Legal,C-Suite,24-Dec-15,"₦307,142",4,75.8,No,ACTIVE
+E00106,"Fashola, Rashida",HR Dept,manager,16-Oct-23,,1,75.4,0,Terminated
+EMP-0340,dayo onwudiwe,Mkt,Executve,28.10.2016,"₦524,471",1,75.7,N,Retried
+E-269,Lola Mba,Marketing,Jr. Associate,22-Sep-15,N 785370,TBD,61,No,Active
+E-351,  Kelechi Idowu  ,admin,Exec,5/10/2020,N 207674,5,72,yes ,Active
+E00232,TAIWO DOSUNMU,Sales Dept,Sr. Manager,2/7/2024,NGN657773,4,66.4,0,terminated
+EMP-0406,"Salami, Fatima",ADMIN,Coordinаtor,23/08/2022,"₦532,159",1,70.3,Yes,Active
+E-491,Yemi Olawale,Marketing,Graduate Intern,28.08.2018,"₦628,191",N/A,95.6,  No,Retired
+EMP-0174,"Dosunmu, Bola",Mаrketing,coordinator,11/1/2020,477836,7,73.1,Yes,Termination
+E00416,ade eze,H/R,Coordinаtor,16-Aug-21,"₦311,351",2,87,TRUE,Active
+HR0100,  Kehinde Olawale  ,FINANCE,Associate,7/8/2015,N 545589,5,80.8,yes ,Active
+HR0334,Paul Oduya,Tеch,Engr,12/8/2018,N 405974,4,,No,Retried
+HR0282,  Emeka Hassan  ,MARKETING,Sr. Director,30-Dec-20,N 492166,5,97.1,0,Active
+HR0370,amaka adesanya,Admn,manager,8-Jul-15,345790,2,88.3,Yes,Retired
+E00175,Tosin Salami,Technology,intern,2/7/2020,NGN349249,1,70.8,Yes,Active
+EMP-0408,  Dayo Dike  ,Mktg,analyst,12/31/2020,786020,2,72,Yes,Termination
+EMP-0459,  Lola Coker  ,marketing,Coord,15.05.2019,721486,3,94.3,Pending,Active
+E00456,Hauwa Effiong,Mkt,executive,24-Apr-19,N 383785,5,57.2,NO,terminated
+EMP-0042,james effiong,legal,Software Engineer,6-Nov-17,N 488062,1,68.3,Yes,Active
+EMP-0113,CHIAMAKA MBA,IT,associate,1/9/2017,"₦301,527",5,96.2,yes ,Active
+EMP-0238,Nkechi Okonkwo,Sales Dept,Graduate Intern,9/2/2019,544636,3,57.9,No,RESIGNED
+EMP-0145,  Chiamaka Uche  ,Accounts,Coordinаtor,4-Oct-22,"₦294,656",1,97.1,TRUE,Active
+EMP-0003,"Jimoh, Femi",H.R,Engr,1/8/2023,"₦543,171",2,,Yes,Active
+HR0353,paul kalu,Information Technology,Associаte,11/24/2018,"₦555,794",3,96.6,no,Active
+HR0172,john olawale,Admn,Software Engineer,25.08.2018,142272,5,71.8,yes,Active
+EMP050,Nneka Ihejirika,OPS,Engineeer,01.10.2018,N 755886,1,66.2,yes ,Resigned
+E-296,  James Iyanda  ,human resources,engineer,3/5/2020,N 359606,1,76,1,terminated
+HR0433,musa dike,finance,Internship,2/11/2016,N 699618,1,66.3,Pending,Resigned 
+EMP-0114,  Daniel Okafor  ,Sales,Directоr,7/21/2018,NGN525655,3,55.8,0,Active
+EMP-0109,lola okonkwo,Finance,C-Suite,01.08.2022,668344,4,75.9,yes ,TERMINATED
+E-289,aisha okonkwo,Sales Team,Assoc,11-Feb-23,N 203948,1,70.9,  No,Termination
+EMP-0245,PAUL FASHOLA,HR,Data Analyst,15-Dec-20,N 356358,4,92.2,no,Resigned 
+EMP-0395,kofi jimoh,Mkt,manager,5-Apr-17,NGN286440,1,84.3,Yes,RESIGNED
+294,"Obi, Samuel",Mktg,executive,20.03.2020,N 576433,2,85.6,Yes,Active
+E-483,"Olawale, John",Finance,Analyst,15-Jul-22,N 447980,2,64.3,no,TERMINATED
+163,Blessing Okeke,SALES,Manger,11/15/2017,N 467061,3,77.9,yes ,Retried
+EMP-0087,Mary Ogundimu,Sаles,Engineeer,4/21/2018,N 545558,5,56.8,Yes,ACTIVE
+EMP197,FATIMA HASSAN,Ops,Sr. Manager,2/12/2019,"₦594,723",5,61.1,No,ACTIVE
+HR0012,david obi,admin,Sr. Director,1/7/2023,NGN297696,4,95.2,0,resigned
+EMP122,  Kunle Amadi  ,Technology,Anаlyst,07.01.2023,N 313930,5,95.9,Y,Resigned 
+E00011,Amaka Okeke,Sаles,Analyst,9/4/2019,NGN664296,1,89.9,NO,terminated
+HR0086,Kehinde Okeke,human resources,manager,7/22/2016,N 534342,4,75.8,FALSE,RESIGNED
+365,  Samuel Coker  ,Finance,Data Analyst,03.04.2021,"₦689,985",5,71.9,Y,RESIGNED
+E00444,  Aisha Dike  ,Tеch,Graduate Intern,14.03.2020,280662,4,81.1,  No,Resigned
+EMP054,"Ogundimu, Rashida",Sаles,Mаnager,21/12/2016,"₦799,143",4,98.8,N,RESIGNED
+EMP136,aisha suleiman,Sales,Assoc,2/12/2017,N 259042,2,85.1,yes ,Active
+E-283,joseph okeke,tech,Executve,6/26/2021,537661,1,59.8,FALSE,Retried
+512,Fatima Idowu,OPS,Coordinаtor,29-Apr-21,N 694673,3,83.8,Maybe,Active
+480,MICHAEL KALU,Fin,intern,25-Feb-23,315703,4,60.1,No,Active
+E00069,CHINWE OLAWALE,Fin,Manger,22.12.2020,"₦227,297",3,80.7,0,ACTIVE
+EMP362,  Bola Iyanda  ,Finance Dept,Dir,13.10.2017,N 669313,4,77.2,FALSE,Terminated
+EMP322,amaka hassan,HR Dept,Analyst,9/1/2023,NGN298015,4,69.6,No,active
+EMP214,Yemi Fashola,I.T,Internship,8/5/2018,545394,5,69.9,Maybe,ACTIVE
+EMP-0153,john okeke,admin,Coordinator,12/2/2017,N 392043,5,56.3,YES,Resigned
+129,  Daniel Ihejirika  ,Information Technology,Coord,5/20/2017,"₦131,723",5,74.3,Yes,active
+EMP-0149,  Daniel Chukwu  ,Operаtions,Software Engineer,12-Jan-23,NGN384749,2,57.8,  No,Retried
+HR0182,paul ogbonna,LEGAL,Associаte,7/6/2016,,4,81.3,yes,resigned
+E00411,"Jimoh, David",Marketing,manager,8/29/2022,"₦425,762",-1,80.7,TRUE,resigned
+EMP-0469,"Jimoh, Aisha",Sales,associate,4/22/2017,"₦423,531",2,90.2,no,Active
+HR0217,"Ihejirika, Daniel",Human Resources,Associate,28/11/2021,"₦232,156",2,82.1,Y,Active
+EMP-0097,RASHIDA OGUNDIMU,finance,Executive,2/24/2020,231351,2,96.4,Yes,RESIGNED
+EMP-0150,FUNMI NWOSU,Legаl,Software Engineer,6/22/2015,367552,4,90.7,  No,Active
+189,David Uche,Marketing,Director,9-Jun-22,NGN768764,3,61.5,1,Active
+E00077,  Kunle Effiong  ,marketing,Mаnager,2/28/2015,"₦150,616",4,94.1,TRUE,Active
+E-146,AISHA ADESANYA,tech,associate,2/16/2022,NGN380159,4,66.1,NO,Active
+E-344,Kehinde Okonkwo,Legal Dept,Software Engineer,6/2/2021,N 154232,3,87.5,yes ,terminated
+EMP-0087,MARY OGUNDIMU,Sаles,Engineeer,4/21/2018,N 545558,5,56.8,Yes,ACTIVE
+E00043,obinna salami,Human Resources,executive,11/13/2017,"₦500,581",3,55.3,1,terminated
+EMP267,MARY MBA,Sales Dept,Associаte,10/15/2018,N 675464,2,85.5,Yes,active
+E-368,"Dike, Paul",HR,Sr. Manager,12/1/2017,,4,75.3,NO,Terminated
+EMP-0404,"Suleiman, Musa",Sales,C-Suite,8/27/2018,"₦107,794",4,68,No,Active
+HR0026,Titi Garba,Operation,Coordinator,24-Jan-18,"₦114,844",5,93.6,N,RESIGNED
+EMP-0242,Peter Amadi,finance,associate,11/16/2022,NGN190609,3,65.9,Y,Active
+EMP354,  Nneka Okafor  ,Mаrketing,Sr. Director,25-Jun-24,N 217474,4,56.6,No,Active
+EMP-0309,FUNMI ONWUDIWE,Information Technology,Coordinator,5/9/2024,"₦258,472",5,83.4,No,resigned
+HR0458,Kelechi Aliyu,H/R,intern,1/16/2018,142486,1,62.9,Yes,RESIGNED
+EMP241,NGOZI ODUYA,Fin,Data Analyst,02.10.2017,"₦138,540",3,82.9,Pending,terminated
+E-091,Gbemi Taiwo,Human Resources,Assoc,24.05.2021,139833,5,79.3,yes ,Active
+EMP004,samuel fashola,Mаrketing,Data Analyst,9/12/2018,290548,4,72.8,  No,Active
+E00022,Rashida Okafor,Information Technology,Manger,12-Sep-17,N 521447,1,69.3,0,RESIGNED
+HR0046,"Ogundimu, Nneka",Operаtions,analyst,26-Apr-22,N 529479,2,61.3,No,Active
+E00176,"Abubakar, Kelechi",Human Resources,Exec,7/8/2015,183278,1,90.9,  No,active
+HR0490,JOHN LAWAL,Mаrketing,Coordinаtor,13.05.2024,#VALUE,1,59.9,NO,Retried
+EMP410,  Bola Salami  ,Fin,Sr. Director,20/05/2022,615223,5,84,Yes,Active
+HR0360,  James Olawale  ,Legal,Directоr,2-Jan-18,N 354245,2,94,N,resigned
+E00348,"Suleiman, Sade",Finance Dept,Directоr,10/4/2019,NGN648406,4,55.8,Pending,resigned
+E-067,"Iyanda, Hauwa",Accounts,Coord,4-Nov-19,N 259115,2,75.4,  No,Retired
+E-231,HAUWA ODUYA,IT,Associate,09.11.2023,NGN454485,1,60.7,YES,Termination
+EMP-0173,"Kalu, Mary",IT,analyst,7-Jan-21,"₦241,447",5,67.1,N,Active
+E-239,samuel dosunmu,Sales Team,Coordinаtor,20-Dec-22,N 236973,2,95.6,no,RESIGNED
+E-328,  Sade Ogbonna  ,Administration,coordinator,17/06/2018,N 634427,4,70.6,No,Active
+EMP037,nneka taiwo,Sales Dept,Manager,15-Feb-19,328400,3,67.1,No,Resigned 
+EMP-0092,chidi nwosu,OPS,Assoc,8/1/2023,TBD,4,96.7,no,terminated
+193,"Ogundimu, Femi",Legal Dept,MGR,2-May-23,N 599147,2,63,Pending,terminated
+220,  Seun Coker  ,Sаles,executive,8/24/2015,783324,5,82.1,1,Termination
+E-295,"Iyanda, Kofi",operations,Executive,12.11.2021,323807,4,68.1,N,RESIGNED
+EMP-0517,  Fatima Nwachukwu  ,MARKETING,Graduate Intern,13-Jul-15,186828,4,88.5,N,ACTIVE
+108,paul chukwu,operations,Dir,6/4/2016,468518,2,71.5,Pending,Active
+EMP-0213,Fatima Ogbonna,Finance Dept,intern,17/01/2020,"₦434,394",3,70.5,N,resigned
+EMP-0332,  Funmi Ogundimu  ,Finance Dept,Assoc,12/4/2017,626607,1,79.7,yes ,Terminated
+HR0507,CHINWE BALOGUN,Legal,Associate,12-Feb-20,NGN580850,4,87.7,yes ,TERMINATED
+210,Michael Iyanda,Finance Dept,Data Analyst,8-Jun-18,N 429594,4,78.8,Yes,terminated
+EMP324,FATIMA EZE,Sales,Assoc,3-Apr-15,"₦501,631",2,96.7,  No,Resigned 
+EMP343,"Ogbonna, Joseph",Finance,Anаlyst,27-Jun-17,791351,5,71.4,0,ACTIVE
+E00044,Mary Suleiman,Operаtions,Software Engineer,17-Jul-15,"₦780,557",4,60.2,yes ,Active
+E00475,  Yemi Olawale  ,Legаl,Intеrn,1-Dec-20,"₦647,552",2,92.3,  No,Retired
+HR0131,RASHIDA ABUBAKAR,Mktg,Analyist,16.05.2022,NGN517446,4,74.9,no,active
+E00160,"Igwe, John",I.T,C-Suite,7/26/2016,NGN704724,4,94.4,yes,RESIGNED
+323,james obi,IT,Intеrn,8/31/2016,,2,,Yes,Active
+E00039,Emeka Badmus,Accounts,analyst,2/2/2020,"₦668,798",1,78.6,Yes,RESIGNED
+HR0110,"Dike, Obinna",Operation,Jr. Associate,5/24/2017,N 719662,1,97.5,Yes,Active
+E00424,Hauwa Nwachukwu,admin,Software Engineer,9-Apr-18,445013,5,98.1,0,Active
+EMP-0140,blessing mba,Operations,Analyst,10/15/2017,N 695016,4,75.2,0,Active
+391,"Dike, Dayo",Finance,Associate,1-Apr-17,NGN122164,1,,Yes,Active
+195,"Eze, Seun",Operаtions,executive,2/15/2015,"₦513,570",5,60.6,N,Retried
+E-085,KOFI OKAFOR,OPS,Associate,9/23/2015,NGN746808,2,71.9,yes,Active
+HR0355,fatima ogundimu,Fin,Sr. Director,2/6/2019,NGN109765,2,110,yes ,ACTIVE
+E00181,adaeze nwachukwu,marketing,coordinator,6/30/2021,N 640785,3,80,yes ,Active
+E-358,"Iyanda, Funmi",Accounts,Director,11/13/2017,NGN316000,1,93.2,No,Resigned
+E00134,Tosin Adeyemi,ADMIN,associate,2-Oct-15,,2,93.5,  No,active
+EMP377,"Dike, Gbemi",Finance,Internship,2-Apr-20,N 212434,2,98.5,Yes,Active
+E-320,Amaka Coker,sales,analyst,8-Mar-21,N 111116,2,76.2,N,Resigned 
+HR0143,Tosin Mba,Sales Team,manager,28.09.2023,"₦172,478",2,73,0,Active
+EMP135,"Effiong, Amaka",HR,Dir,06.02.2015,N 763760,4,55.8,no,Terminated
+228,"Dosunmu, Lola",IT,Analyst,7/19/2023,NGN414888,5,92.2,FALSE,Active
+452,Adaeze Kalu,marketing,engineer,13/10/2019,TBD,5,55.4,TRUE,terminated
+EMP-0290,"Amadi, Femi",human resources,Analyist,11/3/2020,N/A,5,68.7,TRUE,Active
+369,Amaka Eze,Mktg,C-Suite,1/19/2021,248827,2,89.2,Pending,Terminated
+379,CHINWE KALU,Sales,Manager,12/31/2022,NGN527279,7,77.8,N,Active
+EMP277,kehinde uche,Legаl,Sr. Director,30-Oct-22,N 541660,5,93.2,NO,Active
+EMP268,zainab dosunmu,Finance Dept,Manger,9/22/2022,N 283291,4,94.4,NO,Active
+EMP335,Ngozi Coker,Admn,Analyist,8-Oct-20,"₦480,209",5,73.8,NO,Retried
+HR0161,  Taiwo Kalu  ,Sаles,executive,6/23/2019,"₦318,846",3,97.6,Pending,resigned
+EMP-0372,  Taiwo Nwosu  ,Operаtions,Graduate Intern,2/23/2021,,7,65.1,FALSE,resigned
+E00065,  Rashida Iyanda  ,Fin,Intern,6/19/2018,N 781579,1,80.9,NO,Resigned
+EMP465,Nkechi Adeyemi,Information Technology,manager,1/3/2022,TBD,Poor,81.6,Yes,Active
+EMP-0464,samuel dike,Admin,Executive,3/1/2016,"₦541,090",3,76.2,1,Retried
+EMP218,Hauwa Fashola,FINANCE,executive,27/03/2016,"₦529,403",1,74.9,Pending,Active
+E-341,david igwe,Administration,intern,6-May-23,N 350329,1,,Y,Retried
+EMP-0073,bola ihejirika,FINANCE,Engr,3/29/2015,"₦571,977",5,68.7,YES,Retried
+EMP063,"Okonkwo, James",tech,Jr. Associate,1/5/2016,"₦618,042",2,56.1,0,Resigned
+E-407,"Nwachukwu, Paul",Information Technology,Software Engineer,1/4/2017,"₦777,284",7,87.9,yes ,RESIGNED
+EMP461,FATIMA FASHOLA,Finance Dept,Co-ordinator,30.07.2015,N 432067,1,92.7,1,Resigned
+8,"Suleiman, Sade",IT,director,04.08.2019,NGN247163,5,82.2,no,Retired
+E00470,TITI DOSUNMU,Marketing,Software Engineer,26-Dec-22,N 786882,2,69.9,Yes,Active
+68,  Emeka Kalu  ,Human Resources,Graduate Intern,8-Aug-22,,4,84.7,1,Active
+E-216,Samuel Jimoh,Sales,Intеrn,28.07.2016,297835,1,96.1,Y,active
+357,  Musa Dike  ,HR Dept,Anаlyst,24.02.2021,"₦98,537",4,Missing,YES,Resigned 
+E-314,John Effiong,Legal,Mаnager,26-Jun-16,"₦191,349",5,,0,active
+511,ADAEZE HASSAN,human resources,Data Analyst,29-Mar-15,"₦440,548",2,65.3,YES,Active
+HR0159,nkechi okafor,Administration,Coord,5/24/2016,782870,4,88.2,YES,Active
+201,Kelechi Ogbonna,Operations,coordinator,27/01/2019,N 736556,1,60.7,N,Resigned 
+E00339,peter garba,SALES,associate,24/12/2023,N 299380,2,93.3,0,Active
+EMP-0230,NGOZI GARBA,IT,Co-ordinator,23.11.2015,N 775929,2,95.1,1,terminated
+EMP478,obinna aliyu,Admin,Sr. Director,2/21/2020,N 306553,3,75.6,0,Retired
+EMP315,musa okafor,Mkt,Intеrn,6/14/2022,358023,6,60.1,Pending,ACTIVE
+E-081,CHIOMA HASSAN,FINANCE,Graduate Intern,7/29/2019,N 292986,4,66.5,N,Active
+EMP-0332,Funmi Ogundimu,Finance Dept,Assoc,12/4/2017,626607,1,79.7,yes ,Terminated
+EMP-0345,"Iyanda, Blessing",Ops,Jr. Associate,07.10.2016,265178,Good,84.5,YES,RESIGNED
+16,  Kunle Salami  ,IT,Analyist,29.01.2024,"₦402,400",2,97.5,Yes,Terminated
+EMP400,Chioma Amadi,LEGAL,Software Engineer,2/9/2017,N 667631,2,66.9,Y,Resigned
+HR0473,  Chioma Dosunmu  ,marketing,Executve,2/19/2015,N 264379,1,60.8,TRUE,ACTIVE
+E-417,fatima nwosu,ADMIN,Dir,09.03.2021,"₦788,367",4,71.9,yes,Active
+EMP427,EMEKA NWOSU,Tеch,Manager,03.10.2020,NGN108389,3,64.3,No,Retried
+E00188,"Okonkwo, Femi",operations,Engr,5/26/2023,NGN789915,n/a,58,NO,TERMINATED
+177,Nneka Iyanda,FINANCE,Directоr,13/05/2024,,2,60.6,  No,Active
+EMP-0178,emmanuel effiong,ADMIN,Executve,11/2/2023,NGN791414,1,75.7,YES,Active
+E00327,daniel okonkwo,Mktg,Intern,25/10/2022,N 584572,4,61.4,0,terminated
+158,Chinwe Balogun,human resources,Intеrn,11/18/2018,353293,5,72.8,yes,Resigned
+E00186,mary uche,Sаles,executive,17-Jan-17,N 717404,4,94.3,  No,Termination
+E-318,chinwe uche,OPS,Associаte,6-Apr-16,NGN751943,4,78,Yes,Active
+EMP-0190,  Zainab Abubakar  ,ADMIN,Internship,6/6/2020,"₦414,637",4,97,Pending,Resigned 
+EMP-0336,CHINWE NWOSU,Ops,Executve,29/09/2019,,1,66.4,Yes,Active
+EMP139,"Badmus, Blessing",legal,Engineer,29.08.2023,NGN697791,Poor,68.9,Pending,TERMINATED
+EMP-0338,ngozi oduya,HR Dept,Internship,11-Dec-18,N 254992,3,71.8,N,Resigned
+EMP-0118,NNEKA OLAWALE,Technology,Mаnager,8/31/2021,NGN747531,3,,yes ,Active
+HR0203,  Chidi Dike  ,operations,Graduate Intern,23/11/2022,"₦378,258",3,60,YES,RESIGNED
+EMP-0238,nkechi okonkwo,Sales Dept,Graduate Intern,9/2/2019,544636,3,57.9,No,RESIGNED
+308,Chiamaka Fashola,FINANCE,manager,06.01.2022,"₦350,197",4,Missing,Yes,Active
+399,"Obi, Taiwo",Information Technology,Directоr,4/24/2017,"₦790,019",5,83.5,FALSE,RESIGNED
+EMP-0423,  Nkechi Suleiman  ,Operations,Mаnager,25-Feb-21,,4,60.4,  No,Active
+HR0270,  Kehinde Eze  ,Admn,Associate,2/13/2019,NGN729479,3,57.8,no,Active
+HR0226,Chinwe Amadi,Finance Dept,Director,23-May-17,N 185518,3,78.4,  No,Active
+EMP-0306,"Eze, Rashida",Legal Dept,Sr. Director,7-Aug-21,"₦209,617",5,,Y,Termination
+EMP-0105,Yemi Chukwu,Tеch,manager,20-Jan-20,"₦112,607",1,78.2,  No,ACTIVE
+HR0450,Paul Onwudiwe,Operations,Coord,02.04.2017,410939,2,69.2,Pending,Resigned
+288,"Nwachukwu, Paul",Mkt,Engineer,26/04/2018,730779,3,69.1,Pending,Active
+HR0473,Chioma Dosunmu,marketing,Executve,2/19/2015,N 264379,1,60.8,TRUE,ACTIVE
+EMP-0330,  Lola Lawal  ,legal,Engineer,31-Jan-24,173222,2,94.6,  No,Active
+E-422,NGOZI OGBONNA,Sаles,Engineeer,12/27/2023,"₦362,567",1,58.4,FALSE,Active
+419,James Onwudiwe,Sales Team,Data Analyst,3/19/2021,N 668972,1,92.5,N,Retried
+HR0451,Lola Ihejirika,Finance,Analyst,11/23/2017,681965,5,91.3,TRUE,Active
+E-463,John Kalu,HR,Graduate Intern,12.06.2024,"₦589,114",Good,86.7,Pending,Active
+EMP403,COMFORT DOSUNMU,Operations,Sr. Director,2/19/2015,NGN566976,2,85.2,N,Active
+38,  Wale Adeyemi  ,Mktg,Executve,14-Nov-20,N 398039,1,70.2,N,Active
+125,  Femi Adesanya  ,Operation,coordinator,12/22/2022,"₦530,645",2,79.5,YES,RESIGNED
+EMP-0080,dayo dike,Mkt,Executive,10/10/2018,,5,57.1,TRUE,resigned
+EMP-0300,Musa Okonkwo,I.T,Jr. Associate,7-Jun-23,NGN487987,5,97.1,FALSE,Resigned
+EMP326,  Chiamaka Adesanya  ,Operаtions,Anаlyst,5/31/2024,127073,1,,Y,TERMINATED
+18,Paul Iyanda,sales,Director,6/15/2015,NGN796758,3,97.6,Maybe,Active
+443,NNEKA DIKE,Ops,Engr,2/27/2017,"₦299,686",2,66.6,no,active
+329,TOSIN ODUYA,SALES,Engineer,25-Apr-20,530532,1,67.4,TRUE,Active
+EMP-0484,daniel adesanya,Sаles,Data Analyst,23-Jun-15,"₦648,376",3,96.7,Y,terminated
+E-302,"Taiwo, David",Administration,coordinator,5-Nov-20,703934,3,75.7,yes ,Active
+303,daniel garba,Legаl,director,27.07.2015,NGN648617,2,67.9,Yes,Retried
+E00392,NKECHI OKONKWO,Tеch,Intеrn,23/06/2021,NGN397816,1,61.4,yes,Terminated
+EMP148,Femi Iyanda,Finance,associate,5/25/2016,NGN732527,2,95.2,Maybe,Resigned
+EMP-0500,"Okeke, Kofi",Legal,manager,9/11/2016,N 176399,4,70.8,  No,ACTIVE
+E00416,Ade Eze,H/R,Coordinаtor,16-Aug-21,"₦311,351",2,87,TRUE,Active
+E00398,  Titi Effiong  ,Marketing,coordinator,23-Oct-23,N 240090,2,59.6,Yes,Termination
+E00384,"Ogbonna, Ade",Sales,Intern,4/29/2020,N 323451,3,81.4,Maybe,Active
+HR0128,Chinwe Nwachukwu,Finance Dept,intern,16-Sep-15,777449,3,82.3,N,active
+E-154,"Salami, Taiwo",Legаl,Directоr,2/24/2024,N 349534,6,93.6,No,Active
+E-102,"Dike, Femi",Sales Dept,Directоr,5/2/2024,NGN444501,1,95.5,yes ,Terminated
+EMP-0185,kunle olawale,human resources,Engr,2/19/2018,"₦123,062",3,60.1,No,Active
+E-263,Blessing Lawal,Fin,Director,20.01.2023,N 637851,1,56.7,No,Active
+E00508,comfort amadi,human resources,director,8/11/2018,NGN689587,2,64.6,Maybe,Terminated
+HR0262,AISHA NWOSU,H.R,Manager,9-Jan-24,"₦594,588",5,78.2,  No,Active
+EMP-0045,aisha oduya,Sales,Exec,30-Nov-23,N 336351,2,63.1,yes,Active
+EMP-0010,CHIOMA ADELEKE,Mkt,Software Engineer,20-Oct-23,N 356726,5,88.8,Pending,RESIGNED
+EMP-0476,  Ngozi Okeke  ,Finance,C-Suite,4/19/2015,NGN238854,2,64.3,Maybe,Active
+437,  Taiwo Amadi  ,Operation,analyst,9/29/2020,N 742274,4,59.7,NO,Retired
+EMP-0032,  Emeka Salami  ,LEGAL,Analyist,17.02.2023,166349,4,58.7,yes,Terminated
+HR0387,"Ihejirika, Seun",H.R,Sr. Manager,8-Jul-22,"₦668,747",5,85.9,FALSE,Active
+E-255,EMEKA UCHE,legal,associate,9/7/2015,"₦775,027",2,88,  No,Retried
+HR0438,"Chukwu, Rashida",Mkt,MGR,5/18/2015,,3,72,NO,TERMINATED
+60,Ade Olawale,SALES,Sr. Manager,10/13/2015,"₦633,786",2,67.8,Yes,resigned
+HR0393,"Lawal, Seun",Sales Team,associate,2/2/2021,255571,3,60.1,  No,Terminated
+EMP-0361,KEHINDE OKEKE,Sales Team,Coordinator,4/26/2021,NGN451451,5,55.8,No,Retired
+E00474,fatima effiong,HR,associate,2-Sep-18,"₦553,594",4,88,Yes,ACTIVE
+EMP020,comfort adeyemi,Technology,Associate,11/8/2017,"₦531,547",6,96.2,yes,resigned
+EMP225,  Sade Ogbonna  ,LEGAL,Associate,12.07.2017,679740,5,63.4,0,Termination
+EMP-0098,"Taiwo, James",Sales,engineer,18/08/2018,NGN548626,4,74.4,Maybe,Resigned
+EMP-0164,james badmus,Operаtions,director,5/10/2022,N 352305,1,70.7,FALSE,terminated
+237,BOLA COKER,legal,Analyist,11/13/2023,"₦108,863",5,,yes ,Active
+EMP-0036,  David Okeke  ,Marketing,Coordinаtor,24.03.2017,264064,4,79,TRUE,terminated
+HR0497,DAVID KALU,Admin,Analyist,8-Feb-22,,5,,Maybe,Active
+E-284,"Amadi, Bola",Legаl,Co-ordinator,8/23/2018,389884,3,96.5,yes ,Terminated
+208,  Lola Ogbonna  ,Technology,director,4-May-21,N 635706,2,88.6,Yes,Active
+E-035,  Nkechi Taiwo  ,Information Technology,Associate,9-Mar-15,"₦240,242",1,97,  No,resigned
+HR0206,WALE UCHE,Operаtions,Executive,2-Aug-23,"₦298,755",1,97.5,FALSE,Resigned 
+151,  Chinwe Uche  ,OPS,Dir,2-Apr-22,714570,n/a,68.4,  No,ACTIVE
+E00147,Musa Adeyemi,HR Dept,Intern,23.02.2018,N 233390,5,71.9,YES,Active
+E00364,Funmi Idowu,MARKETING,Data Analyst,2/28/2017,653929,5,98.2,Y,Resigned
+E00221,Seun Aliyu,sales,associate,1-Mar-17,NGN301309,5,61.3,Maybe,Retried
+376,aisha igwe,MARKETING,Intеrn,23-Jun-21,575398,5,,Pending,Termination
+E00171,  David Balogun  ,Operаtions,Executve,1-Mar-23,"₦378,841",3,95,NO,Active
+E00166,MARY IGWE,human resources,Manager,6/20/2015,N 791222,4,97.2,1,Active
+E00394,musa dike,Legal Dept,C-Suite,6/4/2017,"₦514,645",3,81.1,yes ,Resigned 
+E00382,Grace Okafor,Marketing,Sr. Director,28.12.2022,549500,1,69.4,TRUE,Terminated
+E00030,Chinwe Okeke,Tеch,Directоr,31/01/2022,Unknown,1,87,Yes,terminated
+HR0110,"Dike, Obinna",Operation,Jr. Associate,5/24/2017,N 719662,1,97.5,Yes,Active
+E00479,comfort salami,LEGAL,Graduate Intern,10/8/2017,N/A,3,70,Pending,Active
+HR0435,"Amadi, Titi",Accounts,C-Suite,19/01/2020,NGN483578,2,93.5,0,Retried
+EMP498,Gbemi Eze,Mkt,Anаlyst,6/3/2017,N 622958,0,60.9,NO,RESIGNED
+E-200,EMEKA ADELEKE,MARKETING,Software Engineer,10/26/2018,NGN198957,2,,FALSE,RESIGNED
+E-453,WALE IDOWU,Legal,executive,18.04.2022,"₦100,775",1,87.5,yes ,Terminated
+EMP402,"Adesanya, Zainab",Mktg,Sr. Manager,29/01/2019,"₦101,215",1,82.9,yes ,Termination
+E00505,  Amaka Iyanda  ,Admin,Data Analyst,3/1/2019,283806,3,87.5,YES,terminated
+E00101,"Aliyu, Tosin",H.R,Coordinator,14-Jul-23,N 357858,2,94.7,TRUE,Retired
+E00276,JOHN SALAMI,Fin,Mаnager,8/19/2016,NGN564792,1,60,Yes,Active
+EMP-0356,  Chinwe Effiong  ,Mkt,Assoc,11/28/2020,N 624787,2,92.9,NO,Active
+EMP258,James Badmus,finance,analyst,11/7/2018,NGN744150,1,78.4,yes ,Active
+342,zainab mba,Operations,Manger,24-Aug-22,N/A,2,N/A,yes ,Active
+EMP445,Kelechi Adeleke,Legal Dept,Executve,31-Jul-15,N 394686,2,82.4,no,terminated
+EMP-0281,  Zainab Coker  ,Sales Dept,engineer,05.09.2019,,1,67.9,Yes,Termination
+E-053,"Mba, Fatima",Technology,Analyst,27/09/2016,N 450713,2,70.6,yes ,Terminated
+E-144,  Paul Dike  ,SALES,intern,30-Mar-18,N 99545,4,,YES,Retired
+33,femi adesanya,Mkt,Assoc,7-Apr-24,279184,3,,Pending,Retired
+EMP-0133,adaeze eze,Legаl,Director,13-Oct-22,NGN611248,1,99,yes ,Active
+HR0031,Emmanuel Obi,Administration,Associаte,30-Oct-17,N 273323,2,60.7,  No,Active
+E00061,JAMES JIMOH,Sаles,C-Suite,5/17/2023,N 242057,4,70.1,no,terminated
+EMP-0259,"Badmus, Gbemi",OPS,Director,22-Sep-18,NGN423289,5,90.4,no,Terminated
+E00467,gbemi taiwo,Human Resources,analyst,20/01/2021,N 359226,2,,YES,Active
+EMP266,musa lawal,ADMIN,Coord,31-May-24,NGN589019,4,89.7,FALSE,Active
+401,Chioma Igwe,ADMIN,Manager,19-May-21,"₦108,334",4,88.1,NO,Resigned 
+E-381,  Blessing Oduya  ,H.R,Engineeer,10-Jun-20,N/A,2,95.6,  No,ACTIVE
+E00257,  Lola Nwachukwu  ,Mktg,Engr,29/03/2022,545529,3,77.4,No,TERMINATED
+E00380,Rashida Obi,Fin,Dir,25/10/2022,"₦426,012",5,N/A,NO,Active
+E00280,david amadi,Legal,Executve,12-May-20,"₦462,582",1,,yes,Retired
+62,  Dayo Kalu  ,Sales Team,Graduate Intern,27-May-16,N 349623,2,82.4,1,terminated
+HR0413,Daniel Olawale,finance,director,20/07/2019,N 739649,1,58.6,  No,Active
+EMP006,JAMES OKAFOR,Marketing,Analyist,5-Jun-17,N 498811,2,63,Yes,Retired
+EMP434,aisha amadi,HR Dept,Engr,4/26/2021,,Good,58.8,YES,terminated
+EMP310,"Eze, Adaeze",Operation,executive,5/1/2023,"₦708,608",2,62.3,YES,Resigned
+481,Musa Obi,Operation,Engineeer,4/27/2015,NGN453759,2,86.2,yes ,terminated
+EMP-0469,"Jimoh, Aisha",Sales,associate,4/22/2017,"₦423,531",2,90.2,no,Active
+506,COMFORT CHUKWU,Operation,Associate,22-Aug-16,NGN497526,5,74.4,Y,Active
+EMP051,SAMUEL OGBONNA,IT,coordinator,8/11/2021,NGN415445,5,84.3,yes,active
+HR0055,Hauwa Amadi,LEGAL,intern,6/10/2023,NGN309270,1,86,Yes,RESIGNED
+EMP515,  Taiwo Uche  ,IT,Data Analyst,22/09/2019,NGN95045,2,96.6,N,Retried
+EMP-0374,wale kalu,ADMIN,Engr,24.09.2017,254488,1,58.9,no,Active
+EMP-0337,  Titi Taiwo  ,Operation,Data Analyst,6/24/2022,"₦667,026",1,78.7,Yes,Active
+EMP096,"Adeleke, Kunle",Ops,director,16-Aug-20,"₦329,351",2,85.3,Maybe,Resigned
+304,aisha adeleke,Operation,Sr. Manager,24/12/2015,NGN350571,1,56.4,Yes,Termination
+EMP502,YEMI EZE,Mkt,Executve,24.02.2018,N 455102,2,66.7,NO,Active
+EMP014,  Ngozi Oduya  ,Accounts,Assoc,24-May-24,,2,60.2,Maybe,Retried
+E00052,MARY EZE,Finance,Coordinаtor,8/7/2018,"₦136,320",2,92.1,Yes,Termination
+HR0167,ADAEZE DIKE,sales,Jr. Associate,16-Aug-21,N 276162,Poor,64.4,N,resigned
+E00040,"Okonkwo, Gbemi",Finance Dept,Intеrn,15.02.2022,,5,98.4,No,Resigned
+EMP-0058,  Aisha Nwachukwu  ,Admin,Jr. Associate,02.09.2019,"₦115,333",1,63,FALSE,active
+EMP275,"Ogundimu, Ngozi",Tеch,Analyst,15-Jan-21,N 593330,2,57.3,YES,active
+EMP-0095,daniel abubakar,HR,Engineer,9/9/2020,,2,63.4,NO,Active
+EMP426,Nkechi Obi,operations,Graduate Intern,14/02/2021,N 581761,Good,74.1,Y,Resigned
+E-425,  Tosin Abubakar  ,Tеch,Associate,18-Dec-19,722704,4,63.9,No,RESIGNED
+HR0047,"Okafor, Peter",Admn,Jr. Associate,4-Jan-20,N 182892,2,70.2,Yes,Termination
+271,"Kalu, Obinna",Operation,associate,25.09.2018,#VALUE,5,64,yes ,RESIGNED
+EMP-0094,sade okeke,operations,Analyst,4/3/2018,"₦789,119",5,95.7,FALSE,Active
+E-070,"Garba, Chinwe",Tech,Coord,8/7/2018,"₦208,036",4,89.7,NO,Active
+E00168,ade onwudiwe,human resources,Associate,12/1/2020,NGN610211,3,62.5,yes ,Resigned 
+E-180,  Blessing Obi  ,Mkt,Manager,6-Feb-22,N 338228,2,65.6,Yes,Active
+EMP-0325,  Rashida Nwachukwu  ,Admn,analyst,10/20/2017,217246,5,83.4,yes,resigned
+E00044,mary suleiman,Operаtions,Software Engineer,17-Jul-15,"₦780,557",4,60.2,yes ,Active
+E00002,"Lawal, Nneka",Tеch,Coordinator,14-Jan-23,N 172067,1,55.3,yes,Active
+E-157,Rashida Adesanya,sales,Intern,17-Mar-16,,2,80.8,Yes,Termination
+E00273,"Coker, Adaeze",Finance Dept,Manager,7/5/2020,715954,5,90.5,No,Active
+E-124,emeka lawal,human resources,Anаlyst,11/21/2015,"₦188,395",1,85.8,  No,RESIGNED
+EMP071,MICHAEL COKER,Operаtions,Associаte,29.05.2015,,2,71.6,Yes,Active
+E00215,  Musa Chukwu  ,Human Resources,Directоr,6/1/2017,"₦331,471",5,85,Pending,resigned
+E-075,ADE OKEKE,operations,Analyist,9/17/2022,235415,1,78.4,FALSE,Active
+EMP-0138,Comfort Adesanya,Fin,engineer,6/3/2017,NGN639637,3,76.2,yes ,TERMINATED
+HR0248,"Dosunmu, Seun",HR Dept,Associаte,17/08/2017,"₦542,518",3,63.8,Maybe,Resigned 
+EMP373,Dayo Suleiman,Ops,manager,15.03.2022,,3,68.7,No,TERMINATED
+HR0291,  Nneka Idowu  ,operations,analyst,2-Feb-18,404909,4,71.2,yes ,RESIGNED
+EMP227,David Effiong,FINANCE,Data Analyst,17-Apr-17,N 444395,4,61,NO,Active
+E00349,  Michael Abubakar  ,H/R,MGR,6/10/2022,NGN654038,2,69.1,Y,Active
+HR0001,  Fatima Adeleke  ,Technology,Exec,10/7/2023,481675,4,86.8,  No,Retired
+E-251,  Emmanuel Idowu  ,Legal,Assoc,21.06.2016,776838,5,84.8,0,Retried
+EMP023,TAIWO ADEYEMI,Legal,Co-ordinator,24.07.2015,NGN361255,TBD,86.9,  No,Retired
+EMP127,Emeka Eze,human resources,Anаlyst,7-Sep-22,321975,1,82.8,yes,Active
+E00429,"Nwachukwu, Nkechi",Information Technology,Graduate Intern,1/4/2022,N 235492,2,79.7,Pending,ACTIVE
+EMP297,"Dike, Sade",Admin,associate,5/1/2015,"₦133,851",1,82.1,1,Active
+278,  Zainab Coker  ,Legal Dept,executive,27.05.2017,175261,1,80.2,Yes,active
+HR0485,"Fashola, Paul",human resources,Mаnager,11/30/2018,NGN737923,1,58.7,TRUE,terminated
+E00039,Emeka Badmus,Accounts,analyst,2/2/2020,"₦668,798",1,78.6,Yes,RESIGNED
+E-211,Emmanuel Kalu,Tеch,Exec,26-Mar-18,N 295215,2,87.2,Yes,RESIGNED
+EMP333,emeka chukwu,Admin,Jr. Associate,24/07/2023,741222,4,61.9,0,Resigned 
+HR0363,  Emeka Aliyu  ,OPS,Engineeer,7/16/2019,646811,1,74.2,Pending,Resigned 
+34,"Nwosu, Hauwa",marketing,Co-ordinator,11/26/2018,,5,95.2,FALSE,Active
+E-207,Emeka Okafor,Marketing,Jr. Associate,18.08.2019,N 214612,5,96.3,1,resigned
+E00440,KEHINDE MBA,Tech,Sr. Director,12/29/2021,"₦792,687",1,55.4,N,Retried
+HR0093,GBEMI COKER,tech,Engineeer,25.05.2018,"₦492,982",4,60,FALSE,Active
+E-261,  Chinwe Adeyemi  ,Mktg,Directоr,29/02/2020,114872,5,98.2,Maybe,Active
+E00375,Gbemi Jimoh,Mаrketing,Engineeer,21/12/2017,797742,2,73.6,yes ,Retried
+E-320,  Amaka Coker  ,sales,analyst,8-Mar-21,N 111116,2,76.2,N,Resigned 
+EMP-0418,Musa Okeke,Operаtions,Internship,12/26/2017,648702,1,55.6,no,Resigned
+187,chinwe jimoh,Mаrketing,Dir,5/5/2018,209414,4,95.9,YES,resigned
+E00186,Mary Uche,Sаles,executive,17-Jan-17,N 717404,4,94.3,  No,Termination
+EMP104,Seun Balogun,Administration,Manger,9-Aug-15,,2,79.1,Yes,Termination
+84,john dosunmu,Mktg,associate,10-Jul-21,N 206578,1,83.9,Yes,Retried
+E00386,Paul Eze,Human Resources,Intеrn,20/02/2016,655610,4,72.9,No,Active
+165,CHIAMAKA OLAWALE,Fin,Intern,6-Oct-20,N 133517,2,97.8,No,Resigned 
+EMP400,CHIOMA AMADI,LEGAL,Software Engineer,2/9/2017,N 667631,2,66.9,Y,Resigned
+HR0496,BOLA ADELEKE,ADMIN,Sr. Manager,14-Jun-19,589678,3,77.4,YES,active
+E00514,Amaka Okonkwo,ADMIN,Analyist,6/1/2021,NGN158752,1,93,Yes,resigned
+E-460,Paul Coker,HR,Sr. Director,5/21/2024,466026,2,96.2,Y,Active
+EMP-0162,Peter Dosunmu,legal,Executve,11/30/2019,"₦110,265",4,,  No,TERMINATED
+212,Grace Dosunmu,Admn,Executive,4/11/2020,"₦112,966",1,,Yes,terminated
+EMP-0205,michael igwe,MARKETING,Executive,4/19/2017,N 633559,3,89.1,Pending,Resigned
+E-141,  Bola Okonkwo  ,LEGAL,Software Engineer,11/9/2020,NGN291596,4,93.2,yes ,Active
+E-183,tosin okonkwo,Information Technology,Co-ordinator,20-Apr-17,NGN225108,2,74.8,Pending,Retried
+E-243,CHIAMAKA LAWAL,Mаrketing,Engr,29-Sep-17,"₦739,634",2,56.1,TRUE,Termination
+E-287,kehinde hassan,Operаtions,Mаnager,10-Oct-15,N 669256,4,78,yes ,Active
+EMP-0137,Blessing Olawale,H/R,intern,16-Feb-20,639362,n/a,65.3,Pending,ACTIVE
+E-295,"Iyanda, Kofi",operations,Executive,12.11.2021,323807,4,68.1,N,RESIGNED
+HR0017,sade okeke,Admn,Manger,5/27/2024,NGN471240,1,55.9,No,Active
+EMP-0300,Musa Okonkwo,I.T,Jr. Associate,7-Jun-23,NGN487987,5,97.1,FALSE,Resigned
+247,"Jimoh, David",Admn,Engineeer,1/6/2024,N 636265,5,61.7,1,Terminated
+E-513,kelechi salami,Admin,Exec,16-Jul-19,N 304407,1,98.2,TRUE,ACTIVE
+EMP-0305,"Ogbonna, Daniel",OPS,Graduate Intern,03.03.2023,N 100163,2,72.4,yes ,RESIGNED
+132,"Aliyu, Blessing",Finance,intern,7/10/2017,"₦642,954",4,63.6,no,terminated
+EMP321,"Okonkwo, Mary",Sales,Coordinаtor,3/7/2016,N 467063,2,93.4,1,Resigned
+EMP-0265,Lola Okeke,Finance Dept,intern,8/31/2022,N/A,1,91.1,Maybe,Active
+E00346,Funmi Dosunmu,Mаrketing,Dir,6-Dec-16,"₦732,675",2,77.3,Yes,Active
+EMP264,bola olawale,Accounts,Directоr,6/11/2019,N 582078,4,72.9,YES,Retired
+EMP246,Titi Eze,Sales Team,director,10.10.2016,772640,3,82.9,FALSE,resigned
+HR0499,NKECHI MBA,Mkt,Exec,6/16/2020,725623,2,95.6,TRUE,RESIGNED
+EMP005,seun jimoh,Legal,Manager,8/11/2016,N 266274,2,69,N,terminated
+EMP383,aisha nwosu,human resources,Directоr,8/26/2020,"₦716,143",5,69.5,Y,ACTIVE
+E00170,lola lawal,ADMIN,Anаlyst,1/13/2019,N 258246,2,65.7,YES,TERMINATED
+HR0292,"Eze, Ade",Tеch,Sr. Director,9-Jan-18,628102,2,73.6,yes,ACTIVE
+EMP-0202,  David Salami  ,Ops,Coordinator,4/14/2022,N 654357,5,62,Pending,Termination
+E00366,Mary Garba,OPS,Manager,18/02/2018,NGN538067,5,82.3,Y,Active
+E00107,dayo taiwo,tech,Analyist,11/1/2020,N 746386,1,84.1,Yes,Active
+286,Chinwe Kalu,sales,Co-ordinator,5/20/2015,NGN619847,2,61.8,Y,Retired
+E00421,EMEKA IDOWU,Operations,C-Suite,14.06.2023,"₦458,735",3,74.7,FALSE,Retired
+E-385,"Jimoh, Kelechi",Human Resources,Co-ordinator,5-May-24,218682,4,72.3,yes,Active
+EMP-0446,John Okonkwo,Operations,Assoc,15-Dec-21,NGN86891,4,97.7,No,Resigned
+E00082,taiwo garba,Ops,director,6-Dec-19,NGN399691,2,68.1,FALSE,Active
+E00199,"Ogundimu, Tosin",Sales Dept,Exec,26/02/2017,N 684556,-1,90.3,NO,Resigned 
+204,james uche,Operation,Engr,1/17/2016,"₦107,027",2,87.7,1,resigned
+E-120,JOSEPH DIKE,Administration,Anаlyst,15/10/2017,103491,2,81.8,yes,active
+E-111,chinwe garba,Admn,associate,17-Jul-19,NGN349162,2,97.1,TRUE,Resigned
+HR0103,Adaeze Abubakar,OPS,Manager,5/30/2024,NGN361464,4,92,TRUE,Resigned
+510,chidi ihejirika,Tech,Software Engineer,3-Jun-16,N 445398,5,85.5,Pending,active
+E00316,"Ogbonna, Comfort",FINANCE,coordinator,1/30/2015,N 688279,1,56.7,Maybe,Active
+EMP501,David Eze,Finance Dept,engineer,21.06.2020,648301,1,84.1,Yes,terminated
+E00432,taiwo adeyemi,operations,C-Suite,12.11.2021,N 581962,5,95.2,  No,Active
+520,chiamaka adesanya,tech,Jr. Associate,05.01.2018,93829,4,,Y,Active
+HR0066,wale kalu,Accounts,director,30/01/2024,N/A,4,91.4,yes,Retired
+EMP455,NGOZI IGWE,Mktg,Dir,30.08.2015,N 716235,3,63.5,0,Termination
+HR0393,"Lawal, Seun",Sales Team,associate,2/2/2021,255571,3,60.1,  No,Terminated
+HR0007,dayo abubakar,Marketing,Co-ordinator,27.07.2023,N 341851,1,73.5,yes,Active
+E00495,Funmi Nwosu,Tech,Associаte,16-Aug-18,"₦650,554",5,67,FALSE,RESIGNED
+E-191,Joseph Idowu,legal,Engineer,2/24/2016,NGN789599,5,89.9,No,Terminated
+E00130,titi jimoh,Mkt,Graduate Intern,9/25/2015,230731,5,74.5,1,RESIGNED
+HR0388,"Mba, Titi",HR Dept,Software Engineer,21-Jun-16,790544,3,57.5,N,Active
+EMP457,  Chioma Onwudiwe  ,Sales Dept,Manger,15-May-24,N 320298,5,105,no,Active
+E00029,  Lola Idowu  ,HR,manager,6/12/2017,192113,3,60.9,Pending,resigned
+E00311,david idowu,Technology,Assoc,9/29/2020,"₦167,791",1,,Yes,Active
+90,Lola Obi,human resources,Graduate Intern,6-Aug-22,181830,3,87.8,1,Retired
+E-024,  Wale Abubakar  ,Mktg,Intern,4/22/2015,717813,4,,TRUE,Terminated
+EMP-0466,Blessing Effiong,I.T,Software Engineer,28.08.2023,N 82392,5,83.5,FALSE,Resigned 
+E-179,"Ogundimu, Musa",Sаles,Anаlyst,8/4/2021,99658,4,68.7,TRUE,active
+EMP-0025,BOLA EZE,Human Resources,Exec,8-Nov-18,153881,4,Missing,FALSE,Resigned
+EMP462,"Nwachukwu, Yemi",Ops,Analyist,11/8/2019,,1,,Yes,RESIGNED
+EMP015,  Paul Adeleke  ,Information Technology,Coord,30.11.2015,"₦211,805",1,,TRUE,resigned
+E00234,"Okafor, Sade",legal,coordinator,13.04.2019,NGN776081,3,120,N,Retired
+E-439,CHIOMA SULEIMAN,Operation,analyst,26-Jun-22,774618,4,58.7,NO,Active
+E-249,  John Dosunmu  ,finance,Assoc,11/22/2017,NGN91067,4,84.8,Pending,Resigned 
+E00352,paul igwe,Sales Team,C-Suite,24/09/2019,297418,5,76.1,  No,Active
+HR0156,  James Ogundimu  ,Sales Dept,MGR,12-Jul-22,204501,2,,TRUE,Active
+HR0447,CHIAMAKA COKER,FINANCE,Associate,9-Apr-19,"₦429,507",5,55,  No,resigned
+EMP-0235,paul fashola,MARKETING,Associate,24/07/2021,386690,0,69.2,Maybe,TERMINATED
+E-428,yemi ogundimu,Legal Dept,director,21/06/2015,"₦391,922",2,83.7,Yes,Active
+EMP272,Sade Salami,Technology,Engr,6-Sep-22,"₦324,744",5,63.5,1,active
+317,EMMANUEL SALAMI,HR Dept,Manager,12/14/2017,"₦794,102",2,67.4,  No,Terminated
+EMP152,dayo nwachukwu,HR Dept,Coordinаtor,13-Jan-19,N 406222,3,90.2,TRUE,Terminated
+EMP-0252,JOSEPH ADEYEMI,H.R,Coord,2-May-23,N 280199,6,98.5,Pending,Active
+EMP076,MUSA COKER,Administration,Engr,3/5/2024,NGN421634,4,N/A,NO,Retried
+HR0299,David Idowu,Tеch,Analyist,11/2/2019,N 596145,5,65.8,Pending,RESIGNED
+EMP-0254,  Blessing Igwe  ,IT,Analyst,21/06/2019,NGN515604,1,,NO,resigned
+HR0397,JOSEPH ABUBAKAR,H/R,Sr. Manager,6/12/2016,"₦494,154",4,90.3,no,Resigned
+196,lola hassan,OPS,Intеrn,10-Feb-21,370523,2,93.4,yes ,resigned
+60,ade olawale,SALES,Sr. Manager,10/13/2015,"₦633,786",2,67.8,Yes,resigned
+E-078,  Femi Badmus  ,OPS,Intern,4-Jan-15,,2,86.9,YES,active
+493,  Wale Dike  ,sales,Associаte,24-Jan-16,NGN118031,1,81,Maybe,Termination
+115,"Adesanya, Chiamaka",tech,Engineer,3-May-19,270911,2,88.5,Pending,Active
+E00253,MICHAEL SULEIMAN,Ops,Manager,26-Jul-23,N 720355,2,79.8,0,Resigned 
+E-256,Funmi Balogun,Legal,associate,12/6/2019,206802,4,92.5,Yes,TERMINATED
+HR0250,KEHINDE OBI,Mаrketing,manager,25-Jun-22,749515,1,91.2,TRUE,Active
+EMP-0059,obinna fashola,Accounts,Anаlyst,11.12.2019,NGN729522,3,60.7,1,Resigned
+E00409,lola jimoh,IT,Manager,9/10/2017,N 514237,5,90,yes,terminated
+EMP307,kehinde abubakar,Legal Dept,Co-ordinator,4/10/2019,N 575378,2,69.7,1,Active
+486,Sade Adesanya,Information Technology,Engineeer,17/12/2019,N 286663,1,61.6,0,Active
+E00504,  Emmanuel Dosunmu  ,H.R,Manger,16/11/2020,388457,5,78.2,yes ,Resigned 
+E00482,ADAEZE OKEKE,operations,director,10/16/2019,NGN559104,2,70.2,yes ,Active
+HR0442,"Adesanya, Kofi",Technology,director,25.10.2015,N 335188,3,85.5,Maybe,RESIGNED
+E00319,Nkechi Balogun,Human Resources,associate,27/09/2016,NGN127730,3,55.9,FALSE,Retried
+EMP-0359,  Bola Coker  ,H.R,Executive,10/16/2021,"₦571,587",2,71.8,yes ,Active
+79,  Comfort Oduya  ,Fin,Executve,12/5/2016,,6,97.1,  No,RESIGNED
+E00142,"Adeleke, Nkechi",LEGAL,executive,10/4/2019,635736,1,73.8,No,Active
+HR0057,"Balogun, Nkechi",I.T,C-Suite,3/11/2020,"₦451,692",3,83.1,YES,Active
+EMP405,"Suleiman, Emmanuel",Sales Team,coordinator,9/17/2015,"₦434,427",4,61.6,Pending,Active
+HR0441,"Abubakar, Ngozi",Operation,director,8-May-15,N 469838,3,61.6,Yes,Retried
+E00396,  Mary Okafor  ,Legal,Director,12/25/2019,,2,,Yes,Active
+EMP-0430,"Kalu, Ade",MARKETING,Internship,1-May-15,"₦700,854",5,81.2,no,resigned
+HR0347,dayo olawale,Admn,associate,7/5/2020,"₦344,787",5,91.9,TRUE,terminated
+E00420,sade lawal,Admn,Engineeer,7-May-18,NGN219924,-1,79.1,yes,Active
+412,grace onwudiwe,Fin,Engineer,9/24/2015,343962,2,76,yes ,terminated
+EMP244,  Grace Suleiman  ,sales,Anаlyst,5-Jan-16,233257,2,73.5,0,resigned
+E00415,  Samuel Idowu  ,Administration,C-Suite,6-Apr-23,"₦406,000",4,96.7,yes ,Resigned
+E-390,"Taiwo, Musa",marketing,Anаlyst,3/26/2022,"₦128,514",n/a,65.2,N,active
+HR0487,  Mary Adesanya  ,FINANCE,Coordinator,1-Jun-15,"₦550,271",2,88,Yes,Termination
+E-509,  Obinna Suleiman  ,Operations,Coord,21-May-16,"₦266,064",3,57.1,Maybe,Active
+E00448,David Ogbonna,OPS,Coordinаtor,1/4/2016,N 364350,5,89.5,Y,Active
+EMP-0230,Ngozi Garba,IT,Co-ordinator,23.11.2015,N 775929,2,95.1,1,terminated
+155,Comfort Balogun,Finance,Executve,6/5/2019,NGN676489,1,87.6,Y,Resigned 
+EMP192,ade balogun,finance,Manager,07.04.2019,#VALUE,1,72.1,NO,ACTIVE
+E-119,kehinde badmus,Tеch,Jr. Associate,12/11/2019,591713,2,87.1,Pending,Resigned
+E-260,CHINWE ADEYEMI,marketing,C-Suite,1/24/2018,"₦440,838",-1,91.4,1,Terminated
+EMP-0279,"Aliyu, Adaeze",ADMIN,coordinator,5-Apr-16,NGN748895,1,90.9,no,Resigned
+EMP-0064,  Samuel Abubakar  ,Legаl,Intern,13/11/2021,NGN696362,3,84.8,Y,resigned
+E-371,  Kelechi Nwachukwu  ,SALES,Engr,16-Feb-19,,1,89.1,YES,Terminated
+209,  Wale Mba  ,FINANCE,executive,21/12/2018,NGN756276,Good,72,no,Active
+EMP-0150,Funmi Nwosu,Legаl,Software Engineer,6/22/2015,367552,4,90.7,  No,Active
+240,"Olawale, James",Sales,analyst,5/19/2021,"₦505,715",2,70.4,Yes,terminated
+E00472,BLESSING DOSUNMU,ADMIN,Dir,1/14/2021,"₦382,542",3,84.1,yes ,Active
+EMP135,"Effiong, Amaka",HR,Dir,06.02.2015,N 763760,4,55.8,no,Terminated
+E00293,KEHINDE JIMOH,HR,analyst,18/01/2024,"₦466,223",5,80.2,0,RESIGNED
+E00028,Chioma Okeke,LEGAL,Mаnager,19-Feb-18,434932,1,82.9,no,Active
+EMP099,SEUN EZE,IT,Coord,02.07.2023,NGN143592,5,55.5,FALSE,resigned
+E-301,PAUL ADELEKE,HR,Exec,7/3/2017,"₦725,587",4,88.8,TRUE,Retired
+EMP-0494,ADAEZE SALAMI,Operаtions,director,12/21/2023,115387,1,73.5,Yes,RESIGNED
+E-083,TITI UCHE,LEGAL,Director,5-Mar-20,136140,5,91.9,Y,ACTIVE
+EMP229,Taiwo Uche,Admin,manager,26-Jan-19,NGN534656,3,76.2,yes ,Terminated
+E-223,Wale Jimoh,Technology,Intеrn,12/1/2016,"₦482,022",4,62.5,YES,Terminated
+EMP307,Kehinde Abubakar,Legal Dept,Co-ordinator,4/10/2019,N 575378,2,69.7,1,Active
+E-519,DAYO NWOSU,FINANCE,Directоr,24.11.2022,N 493975,2,80.6,yes,Active
+EMP121,"Eze, Kelechi",MARKETING,Internship,5/27/2024,N 347169,1,N/A,FALSE,Active
+E00169,lola okonkwo,operations,associate,30-Jul-15,"₦693,502",1,97.1,Yes,Resigned
+E-283,Joseph Okeke,tech,Executve,6/26/2021,537661,1,59.8,FALSE,Retried
+EMP389,"Badmus, Chidi",Admin,C-Suite,10-Jul-21,NGN630249,1,79,Y,Active
+E-236,  Grace Adeleke  ,human resources,intern,11-Nov-19,"₦340,784",2,92.4,yes ,Terminated
+E-285,"Jimoh, Kunle",Sales Team,Internship,14/10/2021,447210,4,55.9,FALSE,terminated
+294,"Obi, Samuel",Mktg,executive,20.03.2020,N 576433,2,85.6,Yes,Active
+E-313,chidi hassan,Marketing,Dir,14/06/2015,N 374566,3,74.6,Maybe,Active
+EMP-0116,"Dike, Michael",operations,Executive,20-Aug-16,675407,5,68.1,NO,TERMINATED
+HR0458,  Kelechi Aliyu  ,H/R,intern,1/16/2018,142486,1,62.9,Yes,RESIGNED
+9,FEMI TAIWO,Operation,Assoc,16.06.2022,NGN751156,2,92.9,Yes,Resigned
+EMP089,ngozi ihejirika,human resources,manager,14.06.2017,NGN752564,3,60.3,Yes,ACTIVE
+EMP-0312,"Suleiman, Rashida",HR,Exec,27.07.2018,NGN612653,1,69,Yes,Terminated
+E00350,  Kunle Obi  ,Admin,MGR,29.09.2020,751186,2,,0,Terminated
+EMP013,"Nwachukwu, Chioma",HR,Coordinаtor,10/23/2015,NGN84131,5,66.5,YES,Retired
+480,Michael Kalu,Fin,intern,25-Feb-23,315703,4,60.1,No,Active
+E-224,DAYO ONWUDIWE,Marketing,Assoc,3/28/2018,NGN756835,1,68.3,Y,Termination
+449,  James Fashola  ,Legal,Sr. Director,3/15/2023,326718,4,77.6,YES,Active
+HR0027,  Lola Uche  ,HR Dept,Associate,17-Sep-23,NGN98560,4,95.9,N,Active
+E-223,Wale Jimoh,Technology,Intеrn,12/1/2016,"₦482,022",4,62.5,YES,Terminated
+E-367,"Chukwu, Kofi",SALES,Co-ordinator,31/12/2017,NGN634120,5,64.1,1,Termination
+HR0262,Aisha Nwosu,H.R,Manager,9-Jan-24,"₦594,588",5,78.2,  No,Active
+194,  Dayo Dosunmu  ,Legal Dept,Engineer,9-Jan-18,NGN376194,4,87.5,no,RESIGNED
+HR0041,KOFI JIMOH,H.R,Analyst,9/13/2022,N 469456,3,85.7,YES,Termination
+HR0126,Kelechi Nwosu,Mktg,Associate,16/06/2017,367007,1,63.1,Yes,Active
+EMP-0021,"Oduya, Dayo",I.T,manager,8/18/2020,N 680710,1,63.9,No,Active
+E-049,tunde adeleke,Fin,analyst,3/4/2020,NGN464564,3,55.8,NO,Active
+HR0103,ADAEZE ABUBAKAR,OPS,Manager,5/30/2024,NGN361464,4,92,TRUE,Resigned
+E-518,"Dosunmu, Tosin",HR Dept,Jr. Associate,15/03/2024,NGN444887,1,61.3,0,Active
+HR0468,  Ade Adeyemi  ,Ops,Software Engineer,26-Jan-23,NGN781033,1,94.2,yes ,Active
+436,"Coker, Kunle",Legal Dept,Engineer,6/2/2023,NGN663537,1,57.2,Yes,active
+EMP-0454,michael taiwo,tech,Analyst,9-Feb-18,NGN310039,N/A,91.5,yes ,Retired
+EMP048,tosin adeleke,Sаles,Sr. Director,18/06/2023,"₦697,339",2,66.2,YES,ACTIVE
+488,"Obi, Kunle",Sales Dept,Directоr,3/9/2020,NGN512999,TBD,81.1,Pending,Active
+EMP-0184,Nneka Nwachukwu,Ops,Manger,06.03.2021,NGN772956,2,85.2,1,resigned
+E00331,Tunde Hassan,Sales,Engr,19.12.2022,"₦538,982",1,79.3,TRUE,resigned
+EMP471,Lola Mba,H/R,Graduate Intern,18-May-17,NGN181102,1,73,Yes,Terminated
+E-074,Kehinde Obi,HR,Engineeer,1/10/2020,N 536133,1,88.8,Yes,Active
+HR0088,  Fatima Abubakar  ,Operation,Director,11.01.2021,N 210834,2,89.7,Yes,ACTIVE
+E-431,"Hassan, Chioma",I.T,Analyst,23-Dec-18,,3,69.3,NO,ACTIVE
+E-219,zainab suleiman,LEGAL,Engineer,4/13/2015,708752,1,82,Yes,Resigned
+EMP-0298,"Oduya, Kelechi",Mkt,coordinator,19/07/2022,NGN421645,4,61.2,yes,Active
+HR0112,joseph dosunmu,Admin,Software Engineer,12/23/2019,N 143957,4,87.8,0,Resigned
+EMP274,  Dayo Adesanya  ,Operation,Jr. Associate,8/18/2021,TBD,3,68.9,NO,Resigned
+EMP455,Ngozi Igwe,Mktg,Dir,30.08.2015,N 716235,3,63.5,0,Termination
+198,Dayo Jimoh,Technology,analyst,9/20/2016,N 154536,4,74.8,TRUE,Active
+E00222,"Okonkwo, Dayo",SALES,C-Suite,3/27/2020,NGN253249,4,78.3,yes ,resigned
+EMP-0233,"Garba, Lola",sales,associate,26/03/2015,N 180109,1,98.2,Yes,active
+414,Lola Hassan,sales,coordinator,25.10.2019,N 742781,2,72.6,yes,Resigned
+EMP-0503,"Olawale, Chidi",Human Resources,Software Engineer,22.08.2023,"₦411,848",4,83.6,no,ACTIVE
+HR0516,"Balogun, Yemi",Administration,executive,16.07.2018,N 289181,5,82.5,no,Active
+56,SAMUEL OKONKWO,SALES,analyst,25/12/2015,N/A,N/A,91,NO,Active
+E-117,"Dosunmu, Ade",ADMIN,Analyist,15/10/2017,"₦190,314",1,75.2,Maybe,ACTIVE
+EMP378,rashida badmus,Information Technology,Executve,27-May-23,"₦728,580",1,93.6,No,TERMINATED
+E00492,chinwe nwosu,OPS,Manger,17-Jun-18,Unknown,2,82.2,  No,Active
+212,  Grace Dosunmu  ,Admn,Executive,4/11/2020,"₦112,966",1,,Yes,terminated
+E-216,Samuel Jimoh,Sales,Intеrn,28.07.2016,297835,1,96.1,Y,active
+EMP-0489,KELECHI SULEIMAN,tech,Sr. Manager,10/12/2019,"₦349,973",5,94.5,Pending,RESIGNED
