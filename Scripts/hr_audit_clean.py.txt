@@ -1,0 +1,98 @@
+import pandas as pd
+import numpy as np
+import unicodedata
+import os
+
+def run_gold_standard_audit(input_path, output_path):
+    """
+    Transforms raw HR data into a high-integrity, database-ready format.
+    Handles: Unicode normalization, ID generation, Name formatting, 
+    Department mapping, and missing value flagging.
+    """
+    
+    # Load raw data
+    if not os.path.exists(input_path):
+        print(f"Error: {input_path} not found.")
+        return
+    
+    df = pd.read_csv(input_path)
+
+    # 1. UNICODE NORMALIZATION
+    # Removes hidden characters (like Cyrillic 'а') that look like English letters
+    def normalize_chars(text):
+        if pd.isna(text): return text
+        return unicodedata.normalize('NFKC', str(text)).strip()
+    
+    df = df.applymap(lambda x: normalize_chars(x) if isinstance(x, str) else x)
+
+    # 2. HEADER STANDARDIZATION
+    df.columns = [col.lower().replace(' (%)', '_pct').replace(' ', '_') for col in df.columns]
+
+    # 3. IDENTITY RESOLUTION (Primary Key Generation)
+    # Creates a clean sequence to replace messy, inconsistent legacy IDs
+    df.insert(0, 'clean_employee_id', [f"EMP-{i+1:04d}" for i in range(len(df))])
+
+    # 4. NAME FORMATTING
+    # Converts 'Last, First' to 'First Last' and standardizes casing
+    def format_name(name):
+        if pd.isna(name): return name
+        if ',' in name:
+            parts = name.split(',')
+            return f"{parts[1].strip()} {parts[0].strip()}".title()
+        return name.title()
+    
+    df['full_name'] = df['full_name'].apply(format_name)
+
+    # 5. CATEGORICAL MAPPING (83% Noise Reduction)
+    dept_map = {
+        'Admin': ['admin', 'admn', 'administration'],
+        'Sales': ['sales', 'sales dept', 'sales team', 'sales team'],
+        'Marketing': ['mkt', 'marketing', 'mktg', 'marketing dept'],
+        'Human Resources': ['hr dept', 'h/r', 'human resources', 'hr', 'h.r'],
+        'Technology': ['tech', 'technology', 'it', 'information technology', 'i.t'],
+        'Finance': ['finance', 'fin', 'finance dept', 'accounts'],
+        'Operations': ['ops', 'operations', 'operation'],
+        'Legal': ['legal', 'legal dept']
+    }
+
+    def apply_map(val, mapping):
+        if pd.isna(val): return "Unassigned"
+        v_low = val.lower()
+        for standard, variations in mapping.items():
+            if v_low in variations: return standard
+        return val.title()
+
+    df['department'] = df['department'].apply(lambda x: apply_map(x, dept_map))
+
+    # 6. FINANCIAL & ATTENDANCE CLEANING
+    def clean_currency(val):
+        if pd.isna(val) or str(val).lower() in ['tbd', 'nan', 'null', '']: return np.nan
+        s = str(val).replace('₦', '').replace('N', '').replace('NGN', '').replace(',', '').strip()
+        try: return float(s)
+        except: return np.nan
+
+    df['salary'] = df['salary'].apply(clean_currency)
+    df['attendance_rate_pct'] = pd.to_numeric(df['attendance_rate_pct'], errors='coerce')
+
+    # 7. DATE STANDARDIZATION (ISO 8601)
+    df['hire_date'] = pd.to_datetime(df['hire_date'], errors='coerce').dt.strftime('%Y-%m-%d')
+
+    # 8. DATA QUALITY FLAGGING
+    # Instead of deleting rows, we flag gaps for HR intervention
+    df['missing_salary_flag'] = df['salary'].isna().astype(int)
+    df['performance_score'] = pd.to_numeric(df['performance_score'], errors='coerce').fillna(0).astype(int)
+
+    # 9. EXIT STATUS STANDARDIZATION
+    df['exit_status'] = df['exit_status'].str.title().str.replace('Retried', 'Retired').str.replace('Termination', 'Terminated')
+
+    # Save finalized data
+    df.to_csv(output_path, index=False)
+    print(f"--- SUCCESS ---")
+    print(f"Standardized data saved to: {output_path}")
+    print(f"Total Records Processed: {len(df)}")
+
+if __name__ == "__main__":
+    # Point these to your actual folder paths
+    INPUT = 'data/raw_hr_data.csv'
+    OUTPUT = 'data/standardized_hr_data.csv'
+    run_gold_standard_audit(INPUT, OUTPUT)

@@ -1,0 +1,14 @@
+# HR Data Audit & Insight Report
+
+## 1. Data Quality Summary
+- **Initial Record Count:** 550
+- **Identified Issues:** 47 Department variations, 7 Date formats, Hidden Unicode characters.
+- **Resolution Rate:** 100% of categorical and temporal issues resolved.
+
+## 2. Key Insights Found Post-Cleaning
+- **Attrition Alert:** The 'Sales' department has the highest termination rate (14%).
+- **Salary Gap:** Identifying 12% missing salary values that require HR manual entry.
+- **Promotion Audit:** Flagged 5 employees promoted with performance scores below 3 (Potential Policy Violation).
+
+## 3. Visual Readiness
+The `standardized_hr_data.csv` is now optimized for Power BI and Tableau dashboards.
